@@ -1,0 +1,227 @@
+[
+  {
+    "token_id": "7197",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "title": "Erykah's Cosmic Vessel • with Cameron McCloud",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/bafybeihtuwvo3xc4krcwluy4usisfqglgxzjjqw6csxbnqxiqzsni73i4i",
+    "artwork": "https://ipfs.io/ipfs/bafybeigcgt2ybwdchlqntca36lk44mw4cjvrepp3nk7z2bi5hmo3uvwrw4",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "url": "https://catalog.works/gavcloud/erykah-s-cosmic-vessel-with-cameron-mccloud",
+    "duration": "4.95 minutes",
+    "mimetype": "wav",
+    "mint_date": "December 30 2021, 01:54:14",
+    "reserve_price": "1"
+  },
+  {
+    "token_id": "5937",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "title": "Puzzle Weasel  • with Frank Moka",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/bafybeif2etxkfwm37gt72woa6epxs5jhmdhxxao5gr6gr6pnciil7jracu",
+    "artwork": "https://ipfs.io/ipfs/bafybeia7gdl23tifrp7fihb53kxl6zi6ujxek6kctuoy5lb7dfigw6zqgq",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "url": "https://catalog.works/gavcloud/puzzle-weasel-with-frank-moka",
+    "duration": "8.42 minutes",
+    "mimetype": "wav",
+    "mint_date": "October 29 2021, 14:53:17",
+    "reserve_price": "2"
+  },
+  {
+    "token_id": "4727",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "title": "La luz verde",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/bafybeifj5yetghqje5ngqvbd5jdxv7hfgof75pq4nniozv3vomenjtm77q",
+    "artwork": "https://ipfs.io/ipfs/bafybeihtjccvhpc5g45znydmfucm5wfc7ph5ulvtxywcuul7q4igrhdqiy",
+    "owner": "0x004f9b9FFdBCC20013cbbF31aB8c06C5178d72a1",
+    "url": "https://catalog.works/gavcloud/la-luz-verde",
+    "duration": "11.19 minutes",
+    "mimetype": "flac",
+    "mint_date": "August 30 2021, 07:02:47",
+    "v2auction": {
+      "winner": "0x004f9b9FFdBCC20013cbbF31aB8c06C5178d72a1",
+      "current_bid_amount": "0.21"
+    }
+  },
+  {
+    "token_id": "6171",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "title": "NO DIGITAL LOCKS",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/bafybeiagbxaanesevs62mmp52vnuvyptyanjddzfyjmyglj3q26vdje3iq",
+    "artwork": "https://ipfs.io/ipfs/bafybeicdwgdwyymdswesmwwntqryydjh6usuh5m4b7ytafzv5cegiu2zyq",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "url": "https://catalog.works/gavcloud/no-digital-locks",
+    "duration": "6.60 minutes",
+    "mimetype": "wav",
+    "mint_date": "November 15 2021, 24:30:48",
+    "reserve_price": "0.14"
+  },
+  {
+    "token_id": "6360",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "title": "Quadratic Lattice • with Max Jaffe",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/bafybeibrbqyq6dh5aohpwxa4uvocvbe56vst3vp3fbhgycxllzfsmea3xi",
+    "artwork": "https://ipfs.io/ipfs/bafybeidjrpb7dw7qwch5ppitskare277nsa7ys33mfu2y3v27p4fhd3itm",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "url": "https://catalog.works/gavcloud/quadratic-lattice-with-max-jaffe",
+    "duration": "6.95 minutes",
+    "mimetype": "wav",
+    "mint_date": "November 27 2021, 24:31:32",
+    "reserve_price": "2"
+  },
+  {
+    "token_id": "7012",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "title": "Lipolysis — I — Relaxed",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/bafybeie4syqc2jnfyyjga4aeg3tazfrvwimlnnepas4v5jnnsax7gwww6q",
+    "artwork": "https://ipfs.io/ipfs/bafybeibqgoynjxl4zzqwpq6ipgegtct5lxjnrsf6athgufe4hhwt2jlb4u",
+    "owner": "0x5Ff09168D220050fB745E8b5A8ef8a4378af9B9f",
+    "url": "https://catalog.works/gavcloud/lipolysis-i-relaxed",
+    "duration": "2.63 minutes",
+    "mimetype": "wav",
+    "mint_date": "December 23 2021, 24:25:47",
+    "v2auction": {
+      "winner": "0x5Ff09168D220050fB745E8b5A8ef8a4378af9B9f",
+      "current_bid_amount": "0.105"
+    }
+  },
+  {
+    "token_id": "8186",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "title": "We can hear Moscow from here",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/bafybeidvv6wzheox2mvrsulohuj3hjbhsfdowyqnfiempdcohopocqqwom",
+    "artwork": "https://ipfs.io/ipfs/bafybeiem334kx3uraf5v6up66pdzkp3voij7j3zbp766r2dk6ngzcywyne",
+    "owner": "0x21e056b6FB3ce04074c51c08536291F5Dc27F487",
+    "url": "https://catalog.works/gavcloud/we-can-hear-moscow-from-here",
+    "duration": "9.67 minutes",
+    "mimetype": "flac",
+    "mint_date": "February 20 2022, 15:50:08",
+    "v2auction": {
+      "winner": "0x21e056b6FB3ce04074c51c08536291F5Dc27F487",
+      "current_bid_amount": "0.1234"
+    }
+  },
+  {
+    "token_id": "7478",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "title": "Autoretrato",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/bafybeidzt3sbvsod4d5nuid6wjqbducsxi5mozhjds5j73w7noa2ong7sq",
+    "artwork": "https://ipfs.io/ipfs/bafybeib4xvllllktjvawrmtsqpqndolmwg6tlqovw73ikckwkckqkbgxsm",
+    "owner": "0x9634D2410a97ff36e6259E29608B5549E7a0539A",
+    "url": "https://catalog.works/gavcloud/autoretrato",
+    "duration": "2.22 minutes",
+    "mimetype": "wav",
+    "mint_date": "January 18 2022, 24:44:43",
+    "v2auction": {
+      "winner": "0x9634D2410a97ff36e6259E29608B5549E7a0539A",
+      "current_bid_amount": "0.14"
+    }
+  },
+  {
+    "token_id": "7584",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "title": "Different Frequencies",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/bafybeibv2skjctb3shdkvvycw7eeewjxgc2yrlo2aqxotto3ddwx2dnvoa",
+    "artwork": "https://ipfs.io/ipfs/bafybeieb5675kd5kieq2yyfj3r35lz35wlbvsj3qlg5r7ugbpbm4fixmte",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "url": "https://catalog.works/gavcloud/different-frequencies",
+    "duration": "6.60 minutes",
+    "mimetype": "wav",
+    "mint_date": "January 24 2022, 24:11:12",
+    "reserve_price": "0.22"
+  },
+  {
+    "token_id": "7723",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "title": "Fair Are The Blossoming Meads Of Delight • with Genus Inkasso",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/bafybeianwipzur5fqmiozcqrydxhbtydzfwkmartmvkvbyizfaxln5qlki",
+    "artwork": "https://ipfs.io/ipfs/bafybeihjdrlmfz6ivrinorczth4cppcpxwtoquiatbxgfo3sn7pnjelsfa",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "url": "https://catalog.works/gavcloud/fair-are-the-blossoming-meads-of-delight-with-genus-inkasso",
+    "duration": "10.21 minutes",
+    "mimetype": "wav",
+    "mint_date": "January 30 2022, 01:20:30",
+    "reserve_price": "0.24"
+  },
+  {
+    "token_id": "3763",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "title": "+ [ 1 ( O ) p | us ]",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/bafybeif34qzjfij77q5sdzr7v4f77ekj4oapbb2swfhgpow7w2invk774m",
+    "artwork": "https://ipfs.io/ipfs/bafybeifn4pr3jnhgoqvhpbnhmg7ic4ume6c5lwbu4ymsryk7nzkmy6arsy",
+    "owner": "0x9634D2410a97ff36e6259E29608B5549E7a0539A",
+    "url": "https://catalog.works/gavcloud/-1-o-p-us-",
+    "duration": "10.40 minutes",
+    "mimetype": "wav",
+    "mint_date": "June 23 2021, 22:56:04",
+    "v2auction": {
+      "winner": "0x9634D2410a97ff36e6259E29608B5549E7a0539A",
+      "current_bid_amount": "0.06"
+    }
+  },
+  {
+    "token_id": "7984",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "title": "Sinfonia",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/QmbydYnbRX6z6bEAsraZhMqS8286fd1dhSyHa3t227yUgh",
+    "artwork": "https://ipfs.io/ipfs/bafybeihosoihee77pljauynlpe2jaiwlr2wrvnw4ekesup6s4jlyx6k2x4",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "url": "https://catalog.works/gavcloud/sinfonia",
+    "duration": "7.11 minutes",
+    "mimetype": "wav",
+    "mint_date": "February 10 2022, 22:13:29",
+    "reserve_price": "1.727"
+  },
+  {
+    "token_id": "927",
+    "token_contract": "0x0bC2A24ce568DAd89691116d5B34DEB6C203F342",
+    "title": "Answer Plateau",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/QmRJXo58FWz2Qegu3K7CUj5dgN4VnSKEMdqVGZVRZiEfuq",
+    "artwork": "https://ipfs.io/ipfs/QmRXrU4v1Nv1UJ1G4FHZagk54S9MSzTmzfYYvVtnozoReo",
+    "url": "https://catalog.works/gavcloud/answer-plateau",
+    "duration": "7.60 minutes",
+    "mimetype": "flac",
+    "mint_date": "August 18 2023, 20:38:11",
+    "reserve_price": "0.38"
+  },
+  {
+    "token_id": "402",
+    "token_contract": "0x0bC2A24ce568DAd89691116d5B34DEB6C203F342",
+    "title": "Polia & Blastema • Suite",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/QmZ9ztD9Mm83MhZBxLmfxWGcvLsc3jhLuJwXkxgXva4G9L",
+    "artwork": "https://ipfs.io/ipfs/QmSAzphAGiJt7jqKXYj4gh3bNJWhvE51TG6YsRwr9D4UR6",
+    "url": "https://catalog.works/gavcloud/polia-blastema-suite",
+    "duration": "9.93 minutes",
+    "mimetype": "flac",
+    "mint_date": "September 27 2022, 09:56:47",
+    "v2auction": {
+      "winner": "0x9634D2410a97ff36e6259E29608B5549E7a0539A",
+      "current_bid_amount": "3.1415"
+    }
+  },
+  {
+    "token_id": "1149",
+    "token_contract": "0x0bC2A24ce568DAd89691116d5B34DEB6C203F342",
+    "title": "Anemoiac Elegy",
+    "artist": "Gavin Gamboa",
+    "lossy_audio": "https://ipfs.io/ipfs/QmR25tFgirUK3wVFVZusS33PH5dTeHczup4AEJtDbTZnis",
+    "artwork": "https://ipfs.io/ipfs/QmV67FtfhSDKrhGNChnzumM1ko9tHHuNH2xf4beeELVsLt",
+    "url": "https://catalog.works/gavcloud/anemoiac-elegy",
+    "duration": "4.03 minutes",
+    "mimetype": "flac",
+    "mint_date": "March 15 2024, 12:02:11",
+    "reserve_price": "0.6"
+  }
+]

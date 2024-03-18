@@ -1,0 +1,2620 @@
+[
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "bafybeihtuwvo3xc4krcwluy4usisfqglgxzjjqw6csxbnqxiqzsni73i4i",
+      "ipfs_hash_artwork": "bafybeigcgt2ybwdchlqntca36lk44mw4cjvrepp3nk7z2bi5hmo3uvwrw4",
+      "short_url": "erykah-s-cosmic-vessel-with-cameron-mccloud",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": {
+      "metadata": {
+        "body": {
+          "notes": "This collaboration is an offering and a tribute to Erykah Badu, the Queen of ♣︎ … neo.soul sonic Healer … Baduola Oblangata … with Dallas-based artist and vocalist Cameron McCloud of Cure For Paranoia.\n\nErykah's Cosmic Vessel (2018)\nCameron McCloud, vocalist\nGavin Gamboa, producer\n\nVocals Recorded and Performed by Cameron McCloud\nDallas, Texas, United States\n\nArtwork:\nLADY BAMBS\n\nSpecial Thanks:\nCold Cris Parker\n\n☥",
+          "title": "Erykah's Cosmic Vessel • with Cameron McCloud",
+          "artist": "Gavin Gamboa",
+          "artwork": {
+            "nft": null,
+            "info": {
+              "uri": "https://ipfs.io/ipfs/bafybeigcgt2ybwdchlqntca36lk44mw4cjvrepp3nk7z2bi5hmo3uvwrw4",
+              "mimeType": "image/png"
+            },
+            "isNft": false
+          },
+          "project": {
+            "notes": "Gaia is not an organism, and we cannot apply to it any technological or religious model. It may have an order, but it has no hierarchy; it is not ordered by levels; it is not disordered, either. … If it is an opera, it depends upon constant observation that has neither a score nor an ending, and it is never performed twice on the same stage. If there is no frame, no goal, no direction, we have to consider Gaia as the name of the process by which variable and contingent occurrences have made later events more probable. In this sense, Gaia is a creature no more of chance than of necessity. Which means that it closely resembles what we have come to regard as history itself.\n\n—\nBruno Latour, “Facing Gaia” (2015)",
+            "title": "Urgency Apparatus",
+            "artwork": {
+              "nft": null,
+              "info": {
+                "uri": "https://ipfs.io/ipfs/bafybeigcgt2ybwdchlqntca36lk44mw4cjvrepp3nk7z2bi5hmo3uvwrw4",
+                "mimeType": "image/png"
+              },
+              "isNft": false
+            }
+          },
+          "version": "catalog-20210202",
+          "duration": 296.803,
+          "mimeType": "audio/wav",
+          "visualizer": null,
+          "trackNumber": 4
+        },
+        "origin": {
+          "encoding": "rlp",
+          "algorithm": "secp256k1",
+          "publicKey": "0xc236541380fc0C2C05c2F2c6c52a21ED57c37952",
+          "signature": "0x917aa3b1d1e11cb47316ddee77d19eedbffb7bd8453bae5b2c00cb84dfc720dc180044954f3de7fc2ac1e487a945466015bf00ea6ac748cad52c724a1b8c0acb1c"
+        }
+      },
+      "royalty_bps": 20000000000000000000,
+      "prev_owner_slice": 0
+    },
+    "cnft": null,
+    "token_id": "7197",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "created_at_block_number": 13905966,
+    "created_at_block_timestamp": "2021-12-30T09:54:14+00:00",
+    "created_at_tx_hash": "0xafcdee0d61f6127a336f3df96f64c0867a48e1efaaff68a3c81ebd1e9f8ed386",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "token_transfer_events": [
+      {
+        "id": "0013905966-000302-d2b97",
+        "block_number": 13905966,
+        "block_timestamp": "2021-12-30T09:54:14+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0xafcdee0d61f6127a336f3df96f64c0867a48e1efaaff68a3c81ebd1e9f8ed386"
+      },
+      {
+        "id": "0013909455-000372-39527",
+        "block_number": 13909455,
+        "block_timestamp": "2021-12-30T22:45:14+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0x44250ceac6be1cd6f5c7e9b5e611f6fbe34dfc3e27551aaffc95959aa3cdf78f"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": 3118,
+        "reserve_price": 1000000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0xa7D62004Ec564fC0eE32aE061C5509481C9Ab494",
+        "curator_fee_percentage": 63,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "status": null,
+        "seller": null,
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [
+      {
+        "id": "3118",
+        "reserve_price": 1000000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0xa7D62004Ec564fC0eE32aE061C5509481C9Ab494",
+        "curator_fee_percentage": 63,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null,
+        "created_at_timestamp": "2021-12-30T22:45:14+00:00",
+        "created_at_block_number": 13909455,
+        "approved_at_timestamp": "2022-01-11T23:37:32+00:00",
+        "approved_at_block_number": 13987263,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "v2_auction_reserve_price_updated_events": []
+      }
+    ],
+    "v3auctions": [],
+    "v1offers": []
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "bafybeif2etxkfwm37gt72woa6epxs5jhmdhxxao5gr6gr6pnciil7jracu",
+      "ipfs_hash_artwork": "bafybeia7gdl23tifrp7fihb53kxl6zi6ujxek6kctuoy5lb7dfigw6zqgq",
+      "short_url": "puzzle-weasel-with-frank-moka",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": {
+      "metadata": {
+        "body": {
+          "notes": "Recorded in one take, Puzzle Weasel is an experiment in remote collaboration with Dallas-based Nigerian-American percussionist and producer Frank Moka (Dos Negros, Erykah Badu).\n\nPuzzle Weasel (2020)\nGavin Gamboa, piano\nFrank Moka, percussion\n\nArtwork by LADY BAMBS\n\nOriginally aired on 8 April 2021\nBrainfeeder THE HIT • Live stream",
+          "title": "Puzzle Weasel  • with Frank Moka",
+          "artist": "Gavin Gamboa",
+          "artwork": {
+            "nft": null,
+            "info": {
+              "uri": "https://ipfs.io/ipfs/bafybeia7gdl23tifrp7fihb53kxl6zi6ujxek6kctuoy5lb7dfigw6zqgq",
+              "mimeType": "image/png"
+            },
+            "isNft": false
+          },
+          "project": null,
+          "version": "catalog-20210202",
+          "duration": 505.443,
+          "mimeType": "audio/wav",
+          "visualizer": null,
+          "trackNumber": null
+        },
+        "origin": {
+          "encoding": "rlp",
+          "algorithm": "secp256k1",
+          "publicKey": "0xc236541380fc0C2C05c2F2c6c52a21ED57c37952",
+          "signature": "0xa30667392648953ff03a2e876243a3421201c18393a8f9c23aa837f5c98a8c7c71341b6ed6199105513ba4586c06909a0c5ee7d3c7b542fcb40847c5e8b77ac81c"
+        }
+      },
+      "royalty_bps": 20000000000000000000,
+      "prev_owner_slice": 0
+    },
+    "cnft": null,
+    "token_id": "5937",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "created_at_block_number": 13514614,
+    "created_at_block_timestamp": "2021-10-29T21:53:17+00:00",
+    "created_at_tx_hash": "0x506b1ffb7bb498fba216d0a0a96c6e1f6dc045a8ac1954c840e23f19c7fb0e62",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "token_transfer_events": [
+      {
+        "id": "0013514614-000268-4c513",
+        "block_number": 13514614,
+        "block_timestamp": "2021-10-29T21:53:17+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0x506b1ffb7bb498fba216d0a0a96c6e1f6dc045a8ac1954c840e23f19c7fb0e62"
+      },
+      {
+        "id": "0013552077-000202-533e0",
+        "block_number": 13552077,
+        "block_timestamp": "2021-11-04T19:31:50+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0xe7fd6ed6ae8a0782549977136976c4390877e05d52487b1953929ff615548b17"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": 2047,
+        "reserve_price": 2000000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0x09af5b2e077c4AE66f79EA52B00e5278e5f6Ca6a",
+        "curator_fee_percentage": 63,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "status": null,
+        "seller": null,
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [
+      {
+        "id": "2047",
+        "reserve_price": 2000000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0x09af5b2e077c4AE66f79EA52B00e5278e5f6Ca6a",
+        "curator_fee_percentage": 63,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null,
+        "created_at_timestamp": "2021-11-04T19:31:50+00:00",
+        "created_at_block_number": 13552077,
+        "approved_at_timestamp": "2021-11-06T17:25:08+00:00",
+        "approved_at_block_number": 13564292,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "v2_auction_reserve_price_updated_events": []
+      }
+    ],
+    "v3auctions": [],
+    "v1offers": []
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "bafybeifj5yetghqje5ngqvbd5jdxv7hfgof75pq4nniozv3vomenjtm77q",
+      "ipfs_hash_artwork": "bafybeihtjccvhpc5g45znydmfucm5wfc7ph5ulvtxywcuul7q4igrhdqiy",
+      "short_url": "la-luz-verde",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": {
+      "metadata": {
+        "body": {
+          "notes": "An extemporaneous piano improvisation dedicated to those closest to us who have transcended beyond this plane and into the enchanted light.",
+          "title": "La luz verde",
+          "artist": "Gavin Gamboa",
+          "artwork": {
+            "nft": null,
+            "info": {
+              "uri": "https://ipfs.io/ipfs/bafybeihtjccvhpc5g45znydmfucm5wfc7ph5ulvtxywcuul7q4igrhdqiy",
+              "mimeType": "image/jpeg"
+            },
+            "isNft": false
+          },
+          "project": {
+            "notes": "In the old-paradigm definition we would say that a living body vibrates, for example, at 10¹⁵ Hertz, meaning that there is a material body in space and time that resonates at 10¹⁵ vibrations per second. In the new paradigm definition we say that interfering standing waves vibrating at 10¹⁵ Hertz constitute a living body.\n\n—Ervin Laszlo “What is Reality?“ (2016)\n\nTitles after Pablo Neruda\n\nperformed on a PETROF P 159 Bora\nRecorded at The Garden Cotswold\nDetroit, Michigan, United States\n2018 August 30\n\nArtwork made with Cyberpaint • @cyberpaintapp",
+            "title": "Odas A La Luz Encantada",
+            "artwork": {
+              "nft": null,
+              "info": {
+                "uri": "https://ipfs.io/ipfs/bafybeihtjccvhpc5g45znydmfucm5wfc7ph5ulvtxywcuul7q4igrhdqiy",
+                "mimeType": "image/jpeg"
+              },
+              "isNft": false
+            }
+          },
+          "version": "catalog-20210202",
+          "duration": 671.66,
+          "mimeType": "audio/flac",
+          "visualizer": null,
+          "trackNumber": 1
+        },
+        "origin": {
+          "encoding": "rlp",
+          "algorithm": "secp256k1",
+          "publicKey": "0xc236541380fc0C2C05c2F2c6c52a21ED57c37952",
+          "signature": "0x1e47b0c5af7176e9aa3588e7b13044bfbcfe347a5c400e457e13048143a386503f1177c32efe12827358b3a0488cbb4dbe3932e2e390341a44b5a74d716fc69e1b"
+        }
+      },
+      "royalty_bps": 27000000000000000000,
+      "prev_owner_slice": 0
+    },
+    "cnft": null,
+    "token_id": "4727",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "created_at_block_number": 13127302,
+    "created_at_block_timestamp": "2021-08-30T14:02:47+00:00",
+    "created_at_tx_hash": "0x1928929011fa617ac6a9349e5d18a5b69ec07f92c2983ca7f8390b15d27f2d78",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0x004f9b9FFdBCC20013cbbF31aB8c06C5178d72a1",
+    "token_transfer_events": [
+      {
+        "id": "0013127302-000227-a7995",
+        "block_number": 13127302,
+        "block_timestamp": "2021-08-30T14:02:47+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0x1928929011fa617ac6a9349e5d18a5b69ec07f92c2983ca7f8390b15d27f2d78"
+      },
+      {
+        "id": "0013166262-000116-99f83",
+        "block_number": 13166262,
+        "block_timestamp": "2021-09-05T14:29:50+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0x38e12ea73abbca10e50706f3df2326272c8e7f0d7f3d127455d0812297a2862f"
+      },
+      {
+        "id": "0013614429-000469-15a0c",
+        "block_number": 13614429,
+        "block_timestamp": "2021-11-14T14:10:07+00:00",
+        "from": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "to": "0x004f9b9FFdBCC20013cbbF31aB8c06C5178d72a1",
+        "transaction_hash": "0x352f81316bdf9b71c72fe6a4262f8de587859913423f7855721ac19323d8eb20"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": null,
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": null,
+        "curator_fee_percentage": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "approved": null,
+        "status": null,
+        "seller": null,
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "status": null,
+        "seller": null,
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [
+      {
+        "id": "1138",
+        "reserve_price": 210000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": "0x004f9b9FFdBCC20013cbbF31aB8c06C5178d72a1",
+        "current_bid_amount": 210000000000000000,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": "2021-11-14T14:08:08+00:00",
+        "approved": true,
+        "status": "FINALIZED",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [
+          {
+            "id": "0013608117-000632-84645",
+            "amount": 210000000000000000,
+            "bidder": "0x004f9b9FFdBCC20013cbbF31aB8c06C5178d72a1",
+            "created_at_timestamp": "2021-11-13T14:08:08+00:00"
+          }
+        ],
+        "winner": "0x004f9b9FFdBCC20013cbbF31aB8c06C5178d72a1",
+        "created_at_timestamp": "2021-09-05T14:29:50+00:00",
+        "created_at_block_number": 13166262,
+        "approved_at_timestamp": "2021-09-05T14:29:50+00:00",
+        "approved_at_block_number": 13166262,
+        "finalized_at_timestamp": "2021-11-14T14:10:07+00:00",
+        "finalized_at_block_number": 13614429,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "v2_auction_reserve_price_updated_events": []
+      }
+    ],
+    "v3auctions": [],
+    "v1offers": [
+      {
+        "amount": 210000000000000000,
+        "currency_address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "offerer": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "created_at_timestamp": "2021-11-14T14:10:07+00:00",
+        "created_at_block_number": 13614429,
+        "finalized_at_timestamp": "2021-11-14T14:10:07+00:00",
+        "finalized_at_block_number": 13614429,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "slice": 0,
+        "status": "FINALIZED"
+      }
+    ]
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "bafybeiagbxaanesevs62mmp52vnuvyptyanjddzfyjmyglj3q26vdje3iq",
+      "ipfs_hash_artwork": "bafybeicdwgdwyymdswesmwwntqryydjh6usuh5m4b7ytafzv5cegiu2zyq",
+      "short_url": "no-digital-locks",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": {
+      "metadata": {
+        "body": {
+          "notes": "Information doesn't want to be free.\n\nArtwork: detail from\nThe Overturned Bouquet\nAbraham Mignon\n1679",
+          "title": "NO DIGITAL LOCKS",
+          "artist": "Gavin Gamboa",
+          "artwork": {
+            "nft": null,
+            "info": {
+              "uri": "https://ipfs.io/ipfs/bafybeicdwgdwyymdswesmwwntqryydjh6usuh5m4b7ytafzv5cegiu2zyq",
+              "mimeType": "image/jpeg"
+            },
+            "isNft": false
+          },
+          "project": {
+            "notes": "Recorded and Mixed by Gavin Gamboa\nLos Angeles, California, United States\nJanuary 2020\n\nSoftware: Bitwig Studio 3",
+            "title": "ANTI ANTI-CIRCUMVENTION",
+            "artwork": {
+              "nft": null,
+              "info": {
+                "uri": "https://ipfs.io/ipfs/bafybeicdwgdwyymdswesmwwntqryydjh6usuh5m4b7ytafzv5cegiu2zyq",
+                "mimeType": "image/jpeg"
+              },
+              "isNft": false
+            }
+          },
+          "version": "catalog-20210202",
+          "duration": 395.729,
+          "mimeType": "audio/wav",
+          "visualizer": null,
+          "trackNumber": 2
+        },
+        "origin": {
+          "encoding": "rlp",
+          "algorithm": "secp256k1",
+          "publicKey": "0xc236541380fc0C2C05c2F2c6c52a21ED57c37952",
+          "signature": "0xa8afb6004916ef73011dc347bac3e0f6461d92e8e2a27c5c3b7d9182ccfba769597a44fc6f22437239ee952bc6309b458ee97ed226e6bc72557a3ae8e4ba6be81c"
+        }
+      },
+      "royalty_bps": 20000000000000000000,
+      "prev_owner_slice": 0
+    },
+    "cnft": null,
+    "token_id": "6171",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "created_at_block_number": 13619276,
+    "created_at_block_timestamp": "2021-11-15T08:30:48+00:00",
+    "created_at_tx_hash": "0xe1a8af2562b92d30abf4425e791731ed55490b685131506b74e48668eacbcb02",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "token_transfer_events": [
+      {
+        "id": "0013619276-000604-758cc",
+        "block_number": 13619276,
+        "block_timestamp": "2021-11-15T08:30:48+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0xe1a8af2562b92d30abf4425e791731ed55490b685131506b74e48668eacbcb02"
+      },
+      {
+        "id": "0013622191-000102-faa60",
+        "block_number": 13622191,
+        "block_timestamp": "2021-11-15T19:36:03+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0x340ade39d84a8d081784b22fedcd21f3240e35805f16f75361418b8d78508330"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": 2186,
+        "reserve_price": 140000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "status": null,
+        "seller": null,
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [
+      {
+        "id": "2186",
+        "reserve_price": 140000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null,
+        "created_at_timestamp": "2021-11-15T19:36:03+00:00",
+        "created_at_block_number": 13622191,
+        "approved_at_timestamp": "2021-11-15T19:36:03+00:00",
+        "approved_at_block_number": 13622191,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "v2_auction_reserve_price_updated_events": []
+      }
+    ],
+    "v3auctions": [],
+    "v1offers": []
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "bafybeibrbqyq6dh5aohpwxa4uvocvbe56vst3vp3fbhgycxllzfsmea3xi",
+      "ipfs_hash_artwork": "bafybeidjrpb7dw7qwch5ppitskare277nsa7ys33mfu2y3v27p4fhd3itm",
+      "short_url": "quadratic-lattice-with-max-jaffe",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": {
+      "metadata": {
+        "body": {
+          "notes": "Recorded in one take, Quadratic Lattice is an experiment in remote collaboration with Brooklyn/Los Angeles-based percussionist and composer Max Jaffe (JOBS, Amirtha Kidambi).\n\nQuadratic Lattice (2020)\nGavin Gamboa, piano\nMax Jaffe, percussion\n\nArtwork by LADY BAMBS\n\nOriginally aired on 8 April 2021\nBrainfeeder THE HIT • Live stream",
+          "title": "Quadratic Lattice • with Max Jaffe",
+          "artist": "Gavin Gamboa",
+          "artwork": {
+            "nft": null,
+            "info": {
+              "uri": "https://ipfs.io/ipfs/bafybeidjrpb7dw7qwch5ppitskare277nsa7ys33mfu2y3v27p4fhd3itm",
+              "mimeType": "image/png"
+            },
+            "isNft": false
+          },
+          "project": null,
+          "version": "catalog-20210202",
+          "duration": 417.048,
+          "mimeType": "audio/wav",
+          "visualizer": null,
+          "trackNumber": null
+        },
+        "origin": {
+          "encoding": "rlp",
+          "algorithm": "secp256k1",
+          "publicKey": "0xc236541380fc0C2C05c2F2c6c52a21ED57c37952",
+          "signature": "0xe5029b379dc919586d9039aec4c826173017e9126e9faa22d3416cb04e24e41e34003070187363a1e524739feaf36302774e33046a3cd4f253639c94714d7c781b"
+        }
+      },
+      "royalty_bps": 20000000000000000000,
+      "prev_owner_slice": 0
+    },
+    "cnft": null,
+    "token_id": "6360",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "created_at_block_number": 13695054,
+    "created_at_block_timestamp": "2021-11-27T08:31:32+00:00",
+    "created_at_tx_hash": "0xd4b695242e4536d912541f6e414551ae05c34e2dd98e0ac581aaaa81c65b8dd0",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "token_transfer_events": [
+      {
+        "id": "0013695054-000283-9de11",
+        "block_number": 13695054,
+        "block_timestamp": "2021-11-27T08:31:32+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0xd4b695242e4536d912541f6e414551ae05c34e2dd98e0ac581aaaa81c65b8dd0"
+      },
+      {
+        "id": "0013695133-000282-a5f06",
+        "block_number": 13695133,
+        "block_timestamp": "2021-11-27T08:51:38+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0x4b295f245f75f32f569b6cc1ca77697227a9d41f545a5ed7701746d06bc73308"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": 2382,
+        "reserve_price": 2000000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0x0Ae4B64ba141596ea4db72D77f6F0E87654B44e8",
+        "curator_fee_percentage": 63,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "status": null,
+        "seller": null,
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [
+      {
+        "id": "2382",
+        "reserve_price": 2000000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0x0Ae4B64ba141596ea4db72D77f6F0E87654B44e8",
+        "curator_fee_percentage": 63,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null,
+        "created_at_timestamp": "2021-11-27T08:51:38+00:00",
+        "created_at_block_number": 13695133,
+        "approved_at_timestamp": "2021-11-28T03:43:37+00:00",
+        "approved_at_block_number": 13700062,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "v2_auction_reserve_price_updated_events": []
+      }
+    ],
+    "v3auctions": [],
+    "v1offers": []
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "bafybeie4syqc2jnfyyjga4aeg3tazfrvwimlnnepas4v5jnnsax7gwww6q",
+      "ipfs_hash_artwork": "bafybeibqgoynjxl4zzqwpq6ipgegtct5lxjnrsf6athgufe4hhwt2jlb4u",
+      "short_url": "lipolysis-i-relaxed",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": {
+      "metadata": {
+        "body": {
+          "notes": "Lipolysis, for violin duo and bass clarinet\n(2013-2016) · Los Angeles, California, United States \n\nViolin: Kate Outterbridge\nViolin: Maiani Magalhães da Silva\nBass Clarinet: James Sullivan\n\nProduced and Engineered by Ali Helnwein\nRecorded at AH Studio, Atwater Village, Los Angeles\n18 May 2018\n\nMixed by Gavin Gamboa\nLinz, Austria\n11 June 2018\n\nCover:\nUntitled Painting\nBeth Hagenbuch\n1995",
+          "title": "Lipolysis — I — Relaxed",
+          "artist": "Gavin Gamboa",
+          "artwork": {
+            "nft": null,
+            "info": {
+              "uri": "https://ipfs.io/ipfs/bafybeibqgoynjxl4zzqwpq6ipgegtct5lxjnrsf6athgufe4hhwt2jlb4u",
+              "mimeType": "image/jpeg"
+            },
+            "isNft": false
+          },
+          "project": {
+            "notes": "Lipolysis, for violin duo and bass clarinet\n(2013-2016) · Los Angeles, California, United States\n\nI. Relaxed\nII. Impending Lethargy\nIII. Lento\n\nViolin: Kate Outterbridge\nViolin: Maiani Magalhães da Silva\nBass Clarinet: James Sullivan",
+            "title": "Lipolysis",
+            "artwork": {
+              "nft": null,
+              "info": {
+                "uri": "https://ipfs.io/ipfs/bafybeibqgoynjxl4zzqwpq6ipgegtct5lxjnrsf6athgufe4hhwt2jlb4u",
+                "mimeType": "image/jpeg"
+              },
+              "isNft": false
+            }
+          },
+          "version": "catalog-20210202",
+          "duration": 157.8,
+          "mimeType": "audio/wav",
+          "visualizer": null,
+          "trackNumber": 1
+        },
+        "origin": {
+          "encoding": "rlp",
+          "algorithm": "secp256k1",
+          "publicKey": "0xc236541380fc0C2C05c2F2c6c52a21ED57c37952",
+          "signature": "0x014169dec455b6616ca5293f06f10639a00925c0e7ec12d41d1b7183451e0b5655ea0c01ebc57f26b6c5822752a52f9038cf30374284fed9d8dc4a9f9065d3741b"
+        }
+      },
+      "royalty_bps": 20000000000000000000,
+      "prev_owner_slice": 0
+    },
+    "cnft": null,
+    "token_id": "7012",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "created_at_block_number": 13860306,
+    "created_at_block_timestamp": "2021-12-23T08:25:47+00:00",
+    "created_at_tx_hash": "0xf8f4e9969b36e009b0ea803b38e4a79819dd8370d7f77b57efb4f9f72444df66",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0x5Ff09168D220050fB745E8b5A8ef8a4378af9B9f",
+    "token_transfer_events": [
+      {
+        "id": "0013860306-000469-2eb89",
+        "block_number": 13860306,
+        "block_timestamp": "2021-12-23T08:25:47+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0xf8f4e9969b36e009b0ea803b38e4a79819dd8370d7f77b57efb4f9f72444df66"
+      },
+      {
+        "id": "0013860348-000144-b2af2",
+        "block_number": 13860348,
+        "block_timestamp": "2021-12-23T08:36:04+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0x918c6e429616bb194e75cf45bc70e613c3147bdd302fdbc1ebf9a5823b7332ac"
+      },
+      {
+        "id": "0013880998-000445-e26d2",
+        "block_number": 13880998,
+        "block_timestamp": "2021-12-26T13:05:19+00:00",
+        "from": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "to": "0x5Ff09168D220050fB745E8b5A8ef8a4378af9B9f",
+        "transaction_hash": "0x063372f6c0940d7e619c6d9e7007ad88d28d75b1690bb3f97f8f7ab2ba96af60"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": null,
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": null,
+        "curator_fee_percentage": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "approved": null,
+        "status": null,
+        "seller": null,
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "status": null,
+        "seller": null,
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [
+      {
+        "id": "3002",
+        "reserve_price": 100000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": "0x5Ff09168D220050fB745E8b5A8ef8a4378af9B9f",
+        "current_bid_amount": 105000000000000000,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": "2021-12-26T13:04:30+00:00",
+        "approved": true,
+        "status": "FINALIZED",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [
+          {
+            "id": "0013880154-000522-ed926",
+            "amount": 105000000000000000,
+            "bidder": "0x5Ff09168D220050fB745E8b5A8ef8a4378af9B9f",
+            "created_at_timestamp": "2021-12-26T10:04:45+00:00"
+          },
+          {
+            "id": "0013874500-000482-be727",
+            "amount": 100000000000000000,
+            "bidder": "0x5Dc5a7a7f39471a21b977cDfBE796b039AE3df56",
+            "created_at_timestamp": "2021-12-25T13:04:30+00:00"
+          }
+        ],
+        "winner": "0x5Ff09168D220050fB745E8b5A8ef8a4378af9B9f",
+        "created_at_timestamp": "2021-12-23T08:36:04+00:00",
+        "created_at_block_number": 13860348,
+        "approved_at_timestamp": "2021-12-23T08:36:04+00:00",
+        "approved_at_block_number": 13860348,
+        "finalized_at_timestamp": "2021-12-26T13:05:19+00:00",
+        "finalized_at_block_number": 13880998,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "v2_auction_reserve_price_updated_events": []
+      }
+    ],
+    "v3auctions": [],
+    "v1offers": [
+      {
+        "amount": 105000000000000000,
+        "currency_address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "offerer": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "created_at_timestamp": "2021-12-26T13:05:19+00:00",
+        "created_at_block_number": 13880998,
+        "finalized_at_timestamp": "2021-12-26T13:05:19+00:00",
+        "finalized_at_block_number": 13880998,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "slice": 0,
+        "status": "FINALIZED"
+      }
+    ]
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "bafybeidvv6wzheox2mvrsulohuj3hjbhsfdowyqnfiempdcohopocqqwom",
+      "ipfs_hash_artwork": "bafybeiem334kx3uraf5v6up66pdzkp3voij7j3zbp766r2dk6ngzcywyne",
+      "short_url": "we-can-hear-moscow-from-here",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": {
+      "metadata": {
+        "body": {
+          "notes": "Recorded in August 2019 at the Teufelsberg Tower listening station radomes, a Cold War-era ruin in the Grunewald locality of former West Berlin. \n\nPhoebe Flockhart, soprano\nLiaizon Wakest, throat-singing\n\nSoftware:\nBitwig Studio 3",
+          "title": "We can hear Moscow from here",
+          "artist": "Gavin Gamboa",
+          "artwork": {
+            "nft": null,
+            "info": {
+              "uri": "https://ipfs.io/ipfs/bafybeiem334kx3uraf5v6up66pdzkp3voij7j3zbp766r2dk6ngzcywyne",
+              "mimeType": "image/png"
+            },
+            "isNft": false
+          },
+          "project": {
+            "notes": "Recorded and Mixed by Gavin Gamboa\nBerlin, Germany and Los Angeles, California, United States\nAugust 2019\n\nPhoebe Flockhart, soprano\nLiaizon Wakest, throat-singing\n\nSpecial Thanks: Sebastian Muellauer\n\nSoftware: Bitwig Studio 3",
+            "title": "Teufelsberg Tower",
+            "artwork": {
+              "nft": null,
+              "info": {
+                "uri": "https://ipfs.io/ipfs/bafybeiem334kx3uraf5v6up66pdzkp3voij7j3zbp766r2dk6ngzcywyne",
+                "mimeType": "image/png"
+              },
+              "isNft": false
+            }
+          },
+          "version": "catalog-20210202",
+          "duration": 580.441,
+          "mimeType": "audio/flac",
+          "visualizer": null,
+          "trackNumber": 3
+        },
+        "origin": {
+          "encoding": "rlp",
+          "algorithm": "secp256k1",
+          "publicKey": "0xc236541380fc0C2C05c2F2c6c52a21ED57c37952",
+          "signature": "0xa8fa425d400691ba72caca007da4dcd0c7b8c88f899b9aa8961769b5fd1485477a0913e5451afa1b1a93e7808d76a2eb6e5fd616d2b558daf8cbfbb02d668e231b"
+        }
+      },
+      "royalty_bps": 20000000000000000000,
+      "prev_owner_slice": 0
+    },
+    "cnft": null,
+    "token_id": "8186",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "created_at_block_number": 14246048,
+    "created_at_block_timestamp": "2022-02-20T23:50:08+00:00",
+    "created_at_tx_hash": "0x7b6ab233c7fbb518873e9fceb6145844d89a5b14014f3cf2f6fc4baf77a0071e",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0x21e056b6FB3ce04074c51c08536291F5Dc27F487",
+    "token_transfer_events": [
+      {
+        "id": "0014246048-000233-ae6be",
+        "block_number": 14246048,
+        "block_timestamp": "2022-02-20T23:50:08+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0x7b6ab233c7fbb518873e9fceb6145844d89a5b14014f3cf2f6fc4baf77a0071e"
+      },
+      {
+        "id": "0014253061-000357-552a8",
+        "block_number": 14253061,
+        "block_timestamp": "2022-02-22T01:58:56+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0xbff8744b4e75ff4b330964e68c3e76f394cc83f6c8e6dd77934498032af75a42"
+      },
+      {
+        "id": "0014380841-000189-a2686",
+        "block_number": 14380841,
+        "block_timestamp": "2022-03-13T21:55:33+00:00",
+        "from": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "to": "0xb3F95707e903304138A264f0955663594090494A",
+        "transaction_hash": "0xad216739da0aa66724ac163c895c78a69a09ea1f24305d3e55bea76f6f65d82d"
+      },
+      {
+        "id": "0014381021-000079-b98eb",
+        "block_number": 14381021,
+        "block_timestamp": "2022-03-13T22:33:02+00:00",
+        "from": "0xb3F95707e903304138A264f0955663594090494A",
+        "to": "0x21e056b6FB3ce04074c51c08536291F5Dc27F487",
+        "transaction_hash": "0x348ba96ee8a6d666730ac3d4c399254d2d656d0566e3b435c33406b9dfcea884"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": null,
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": null,
+        "curator_fee_percentage": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "approved": null,
+        "status": null,
+        "seller": null,
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "status": null,
+        "seller": null,
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [
+      {
+        "id": "4219",
+        "reserve_price": 123400000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": "0xb3F95707e903304138A264f0955663594090494A",
+        "current_bid_amount": 123400000000000000,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": "2022-03-13T21:38:35+00:00",
+        "approved": true,
+        "status": "FINALIZED",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [
+          {
+            "id": "0014374413-000254-de291",
+            "amount": 123400000000000000,
+            "bidder": "0xb3F95707e903304138A264f0955663594090494A",
+            "created_at_timestamp": "2022-03-12T21:38:35+00:00"
+          }
+        ],
+        "winner": "0xb3F95707e903304138A264f0955663594090494A",
+        "created_at_timestamp": "2022-02-22T01:58:56+00:00",
+        "created_at_block_number": 14253061,
+        "approved_at_timestamp": "2022-02-22T01:58:56+00:00",
+        "approved_at_block_number": 14253061,
+        "finalized_at_timestamp": "2022-03-13T21:55:33+00:00",
+        "finalized_at_block_number": 14380841,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "v2_auction_reserve_price_updated_events": []
+      }
+    ],
+    "v3auctions": [],
+    "v1offers": [
+      {
+        "amount": 123400000000000000,
+        "currency_address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "offerer": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "created_at_timestamp": "2022-03-13T21:55:33+00:00",
+        "created_at_block_number": 14380841,
+        "finalized_at_timestamp": "2022-03-13T21:55:33+00:00",
+        "finalized_at_block_number": 14380841,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "slice": 0,
+        "status": "FINALIZED"
+      }
+    ]
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "bafybeidzt3sbvsod4d5nuid6wjqbducsxi5mozhjds5j73w7noa2ong7sq",
+      "ipfs_hash_artwork": "bafybeib4xvllllktjvawrmtsqpqndolmwg6tlqovw73ikckwkckqkbgxsm",
+      "short_url": "autoretrato",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": {
+      "metadata": {
+        "body": {
+          "notes": "A remix of my father's early work from the 1980s. Programmed in Renoise. Part of a collection titled \"Canciones de mi padre que han sido completamente deconstruido y vuelto a montar\"\n\n✴︎\n\nEste pieza se deriva enteramente de las muestras tomadas de los primeros grabaciónes de Jorge Gamboa Patrón realizadas durante la década de 1980: ‘Fantasma’ y ‘Perfiles’. Las canciones han sido mezclados entre sí para crear nuevas formas y fusiones salvajes. Habiendo crecido con esta música, me encontré haciendo estos deconstrucciones / reconstrucciones a ser un proceso de redescubrimiento; remodelación y remodelar algo muy familiar y cercano en algo totalmente desconocido y lejano.\n\n✴︎\n\nThis piece is derived entirely from samples taken from Jorge Gamboa Patrón's early records made during the 1980s: ‘Fantasma’, and ‘Perfiles’. The songs have been intermixed with each other to create wild new forms and fusions. Having grown up with this music, I found making these deconstructions/reconstructions to be a process of rediscovery; reshaping and remolding something very familiar and close into something entirely unfamiliar and far away.",
+          "title": "Autoretrato",
+          "artist": "Gavin Gamboa",
+          "artwork": {
+            "nft": null,
+            "info": {
+              "uri": "https://ipfs.io/ipfs/bafybeib4xvllllktjvawrmtsqpqndolmwg6tlqovw73ikckwkckqkbgxsm",
+              "mimeType": "image/png"
+            },
+            "isNft": false
+          },
+          "project": {
+            "notes": "'Canciones de mi padre que han sido completamente deconstruido y vuelto a montar’ se deriva enteramente de las muestras tomadas de los primeros grabaciónes de Jorge Gamboa Patrón realizadas durante la década de 1980: ‘Fantasma’ y ‘Perfiles’. Las canciones han sido mezclados entre sí para crear nuevas formas y fusiones salvajes. Habiendo crecido con esta música, me encontré haciendo estos deconstrucciones / reconstrucciones a ser un proceso de redescubrimiento; remodelación y remodelar algo muy familiar y cercano en algo totalmente desconocido y lejano.\n\n‘Songs of my father that have been completely deconstructed and reassembled’ is derived entirely from samples taken from Jorge Gamboa Patrón's early records made during the 1980s: ‘Fantasma’, and ‘Perfiles’. The songs have been intermixed with each other to create wild new forms and fusions. Having grown up with this music, I found making these deconstructions/reconstructions to be a process of rediscovery; reshaping and remolding something very familiar and close into something entirely unfamiliar and far away.",
+            "title": "Canciones de mi padre que han sido completamente deconstruido y vuelto a montar",
+            "artwork": {
+              "nft": null,
+              "info": {
+                "uri": "https://ipfs.io/ipfs/bafybeib4xvllllktjvawrmtsqpqndolmwg6tlqovw73ikckwkckqkbgxsm",
+                "mimeType": "image/png"
+              },
+              "isNft": false
+            }
+          },
+          "version": "catalog-20210202",
+          "duration": 133.198,
+          "mimeType": "audio/wav",
+          "visualizer": null,
+          "trackNumber": 4
+        },
+        "origin": {
+          "encoding": "rlp",
+          "algorithm": "secp256k1",
+          "publicKey": "0xc236541380fc0C2C05c2F2c6c52a21ED57c37952",
+          "signature": "0xc463a2e6956a3d4f6f83bcf0f3648d408ec8c4eefe4760494e769562a090a6354adfbc5c46b97b0b54414d36b8a0cf6ea473564a4df805195993b80a187be95a1b"
+        }
+      },
+      "royalty_bps": 20000000000000000000,
+      "prev_owner_slice": 80000000000000000000
+    },
+    "cnft": null,
+    "token_id": "7478",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "created_at_block_number": 14028497,
+    "created_at_block_timestamp": "2022-01-18T08:44:43+00:00",
+    "created_at_tx_hash": "0x5550767a1e634c44507338453e3bd2ec5d7f966e03bcb5f623c659bec7880fd8",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0x9634D2410a97ff36e6259E29608B5549E7a0539A",
+    "token_transfer_events": [
+      {
+        "id": "0014028497-000344-cee8e",
+        "block_number": 14028497,
+        "block_timestamp": "2022-01-18T08:44:43+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0x5550767a1e634c44507338453e3bd2ec5d7f966e03bcb5f623c659bec7880fd8"
+      },
+      {
+        "id": "0014028570-000447-56e3c",
+        "block_number": 14028570,
+        "block_timestamp": "2022-01-18T09:04:50+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0xddab17bac5d1e993f3d3841099f920dcbd1ce707a43003811165ffadfc8ca30a"
+      },
+      {
+        "id": "0015299076-000059-7e64a",
+        "block_number": 15299076,
+        "block_timestamp": "2022-08-08T02:57:19+00:00",
+        "from": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "to": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+        "transaction_hash": "0xf398c2968f1e7eba27953bcbb8f7c3dbbaccdf75e1d7207b30ade875437c393f"
+      },
+      {
+        "id": "0015299107-000096-c10f6",
+        "block_number": 15299107,
+        "block_timestamp": "2022-08-08T03:05:46+00:00",
+        "from": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+        "to": "0xd72Cb55FD6E7d94808B27B15f6132Cdfcf5A0461",
+        "transaction_hash": "0xd0fceccaa8eff3320b02d27120a8f5c21439bfa97ebad55f32f7c20137151bf7"
+      },
+      {
+        "id": "0017418570-000226-dd7f5",
+        "block_number": 17418570,
+        "block_timestamp": "2023-06-06T02:52:47+00:00",
+        "from": "0xd72Cb55FD6E7d94808B27B15f6132Cdfcf5A0461",
+        "to": "0x9634D2410a97ff36e6259E29608B5549E7a0539A",
+        "transaction_hash": "0xa0070ecd158fcbcab5d3a9de2e64563f78bed5bdebc3e27e2e0ec266ed04f322"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": null,
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": null,
+        "curator_fee_percentage": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "approved": null,
+        "status": null,
+        "seller": null,
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "status": null,
+        "seller": null,
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [
+      {
+        "id": "3552",
+        "reserve_price": 140000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+        "current_bid_amount": 140000000000000000,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": "2022-08-08T02:56:40+00:00",
+        "approved": true,
+        "status": "FINALIZED",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [
+          {
+            "id": "0015292612-000128-3ff36",
+            "amount": 140000000000000000,
+            "bidder": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+            "created_at_timestamp": "2022-08-07T02:56:40+00:00"
+          }
+        ],
+        "winner": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+        "created_at_timestamp": "2022-01-18T09:04:50+00:00",
+        "created_at_block_number": 14028570,
+        "approved_at_timestamp": "2022-01-18T09:04:50+00:00",
+        "approved_at_block_number": 14028570,
+        "finalized_at_timestamp": "2022-08-08T02:57:19+00:00",
+        "finalized_at_block_number": 15299076,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "v2_auction_reserve_price_updated_events": []
+      }
+    ],
+    "v3auctions": [],
+    "v1offers": [
+      {
+        "amount": 140000000000000000,
+        "currency_address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "offerer": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "created_at_timestamp": "2022-08-08T02:57:19+00:00",
+        "created_at_block_number": 15299076,
+        "finalized_at_timestamp": "2022-08-08T02:57:19+00:00",
+        "finalized_at_block_number": 15299076,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "slice": 0,
+        "status": "FINALIZED"
+      }
+    ]
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "bafybeibv2skjctb3shdkvvycw7eeewjxgc2yrlo2aqxotto3ddwx2dnvoa",
+      "ipfs_hash_artwork": "bafybeieb5675kd5kieq2yyfj3r35lz35wlbvsj3qlg5r7ugbpbm4fixmte",
+      "short_url": "different-frequencies",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": {
+      "metadata": {
+        "body": {
+          "notes": "A distillation of permeable vocaloid substrata and bizarreified clavier, swinging with the wistful acceptance that the immeasurable intensity of the UNKNOWABLE, when translated (partially and with artifacts) into an earthly vessel's reality tunnel, is merely a method of momentary suspension over that vastness, in which FORMS flow out like invented conversations where thought and feeling become supercondensed into a prismatic solidity of the present (sound~waves brought forth through extremities and oxygenated internalities as if by chance).\r\n\r\nPiano, Vocals, and Processing: \r\nGavin Gamboa\r\n\r\nSung Text: \r\nHillel Schwartz (deletions of ‘Making Noise’)\r\n\r\nArtwork: \r\nIvan Gamboa",
+          "title": "Different Frequencies",
+          "artist": "Gavin Gamboa",
+          "artwork": {
+            "nft": null,
+            "info": {
+              "uri": "https://ipfs.io/ipfs/bafybeieb5675kd5kieq2yyfj3r35lz35wlbvsj3qlg5r7ugbpbm4fixmte",
+              "mimeType": "image/jpeg"
+            },
+            "isNft": false
+          },
+          "project": {
+            "notes": "dedicated to Ted Nava\r\n\r\nPiano, Vocals, and Processing: Gavin Gamboa\r\nText: John Tottenham (selections from ‘The Inertia Variations’)\r\n& Hillel Schwartz (deletions of ‘Making Noise’)\r\n\r\nArtwork: Ivan Gamboa",
+            "title": "This Precious Paralysis",
+            "artwork": {
+              "nft": null,
+              "info": {
+                "uri": "https://ipfs.io/ipfs/bafybeieb5675kd5kieq2yyfj3r35lz35wlbvsj3qlg5r7ugbpbm4fixmte",
+                "mimeType": "image/jpeg"
+              },
+              "isNft": false
+            }
+          },
+          "version": "catalog-20210202",
+          "duration": 395.99,
+          "mimeType": "audio/wav",
+          "visualizer": null,
+          "trackNumber": 9
+        },
+        "origin": {
+          "encoding": "rlp",
+          "algorithm": "secp256k1",
+          "publicKey": "0xc236541380fc0C2C05c2F2c6c52a21ED57c37952",
+          "signature": "0x7d6e9f62aa4ebf6db2955f4c8a3cc722dc4460daa6abb050b9316fea6f7d0df950897d6768d848b2f493d96e6536be9c851351df19080a8d710a7e65c9ed13ad1b"
+        }
+      },
+      "royalty_bps": 20000000000000000000,
+      "prev_owner_slice": 0
+    },
+    "cnft": null,
+    "token_id": "7584",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "created_at_block_number": 14067174,
+    "created_at_block_timestamp": "2022-01-24T08:11:12+00:00",
+    "created_at_tx_hash": "0x6bff73b9fa8d883d0c9cb9e729e5cecc7c69c215c0b20da992de76e7b19b2ef9",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "token_transfer_events": [
+      {
+        "id": "0014067174-000389-9bece",
+        "block_number": 14067174,
+        "block_timestamp": "2022-01-24T08:11:12+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0x6bff73b9fa8d883d0c9cb9e729e5cecc7c69c215c0b20da992de76e7b19b2ef9"
+      },
+      {
+        "id": "0014067234-000185-a2d2e",
+        "block_number": 14067234,
+        "block_timestamp": "2022-01-24T08:21:46+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0xde54c254cebf31d834e360d3e8ffc200bc3ff49769ff155974cfc4ea684dd466"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": 3668,
+        "reserve_price": 220000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "status": null,
+        "seller": null,
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [
+      {
+        "id": "3668",
+        "reserve_price": 220000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null,
+        "created_at_timestamp": "2022-01-24T08:21:46+00:00",
+        "created_at_block_number": 14067234,
+        "approved_at_timestamp": "2022-01-24T08:21:46+00:00",
+        "approved_at_block_number": 14067234,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "v2_auction_reserve_price_updated_events": []
+      }
+    ],
+    "v3auctions": [],
+    "v1offers": []
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "bafybeianwipzur5fqmiozcqrydxhbtydzfwkmartmvkvbyizfaxln5qlki",
+      "ipfs_hash_artwork": "bafybeihjdrlmfz6ivrinorczth4cppcpxwtoquiatbxgfo3sn7pnjelsfa",
+      "short_url": "fair-are-the-blossoming-meads-of-delight-with-genus-inkasso",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": {
+      "metadata": {
+        "body": {
+          "notes": "A split track release in the spirit of the 7\" inch vinyl collaborative format, 'Fair Are The Blossoming Meads Of Delight' begins with a new offering from experimental producer Genus Inkasso (Berlin) calibrating his open-source toolkit which pounds out a distinctive polystylistic sound-form of the underground, which is then followed by effervescent dreamcasts and soundscapes of cosmic drift and asymmetric klang by composer Gavin Gamboa (Los Angeles), realized on a modular synth … the two musicians co-creating jointly on a piece of music for the first time.\r\n\r\nActive since 2009, Genus Inkasso has evolved a style into something that defies genre labels and is not easily namable. In tracks profuse with scapes and collages, you can find hints from a good dozen subcultures, the sum of which exists beyond those very subcultures. This is the defining element of the German-born Berlin-based producer's works: the push and pull of styles, leading to their own unmistakable and raw sound.\r\n\r\nFair Are The Blossoming Meads Of Delight (2022)\r\nGenus Inkasso • Side A\r\nGavin Gamboa • Side B\r\n\r\nArtwork: \r\nThe Zodical Light by E. L. Trouvelot \r\n& ASCII Text Art by h0p3",
+          "title": "Fair Are The Blossoming Meads Of Delight • with Genus Inkasso",
+          "artist": "Gavin Gamboa",
+          "artwork": {
+            "nft": null,
+            "info": {
+              "uri": "https://ipfs.io/ipfs/bafybeihjdrlmfz6ivrinorczth4cppcpxwtoquiatbxgfo3sn7pnjelsfa",
+              "mimeType": "image/png"
+            },
+            "isNft": false
+          },
+          "project": null,
+          "version": "catalog-20210202",
+          "duration": 612.598,
+          "mimeType": "audio/wav",
+          "visualizer": null,
+          "trackNumber": null
+        },
+        "origin": {
+          "encoding": "rlp",
+          "algorithm": "secp256k1",
+          "publicKey": "0xc236541380fc0C2C05c2F2c6c52a21ED57c37952",
+          "signature": "0x36335bb2aa7d214235c7f2df0d7ac2698cf968e8c4414dc1e9a5fde1d10d31dc1216ecb35d84b68b9cfbf58bc41a3755c8d9076afca73b47400a32a13b568f3a1b"
+        }
+      },
+      "royalty_bps": 20000000000000000000,
+      "prev_owner_slice": 0
+    },
+    "cnft": null,
+    "token_id": "7723",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "created_at_block_number": 14106309,
+    "created_at_block_timestamp": "2022-01-30T09:20:30+00:00",
+    "created_at_tx_hash": "0xba02f17b88e5ae599438b8c3410b6827fb0d1b794b7495ecf858df2d75cd3a4c",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "token_transfer_events": [
+      {
+        "id": "0014106309-000332-954b7",
+        "block_number": 14106309,
+        "block_timestamp": "2022-01-30T09:20:30+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0xba02f17b88e5ae599438b8c3410b6827fb0d1b794b7495ecf858df2d75cd3a4c"
+      },
+      {
+        "id": "0014106389-000392-fec28",
+        "block_number": 14106389,
+        "block_timestamp": "2022-01-30T09:38:58+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0x862b6d70b002628e919e31cd506ed3140396d03adcf083bfc22c28de72662496"
+      },
+      {
+        "id": "0014109339-000351-19bea",
+        "block_number": 14109339,
+        "block_timestamp": "2022-01-30T20:27:58+00:00",
+        "from": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0xc704e1e6ecab1481cc17b2c749752a65dbcd86f71f7fb9744487070ae2afc7c4"
+      },
+      {
+        "id": "0014109435-000345-499b9",
+        "block_number": 14109435,
+        "block_timestamp": "2022-01-30T20:52:51+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0x4869a777025765a9a35ed962d7101b932ca21328d4cc1d19b8d3ab7876d56c02"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": 3779,
+        "reserve_price": 240000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "status": null,
+        "seller": null,
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [
+      {
+        "id": "3771",
+        "reserve_price": 240000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0x566947C2238FC5ffA42850B207f4521b75cCAbeC",
+        "curator_fee_percentage": 63,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": null,
+        "status": "CANCELED",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null,
+        "created_at_timestamp": "2022-01-30T09:38:58+00:00",
+        "created_at_block_number": 14106389,
+        "approved_at_timestamp": null,
+        "approved_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": "2022-01-30T20:27:58+00:00",
+        "canceled_at_block_number": 14109339,
+        "v2_auction_reserve_price_updated_events": []
+      },
+      {
+        "id": "3779",
+        "reserve_price": 240000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null,
+        "created_at_timestamp": "2022-01-30T20:52:51+00:00",
+        "created_at_block_number": 14109435,
+        "approved_at_timestamp": "2022-01-30T20:52:51+00:00",
+        "approved_at_block_number": 14109435,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "v2_auction_reserve_price_updated_events": []
+      }
+    ],
+    "v3auctions": [],
+    "v1offers": []
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "bafybeif34qzjfij77q5sdzr7v4f77ekj4oapbb2swfhgpow7w2invk774m",
+      "ipfs_hash_artwork": "bafybeifn4pr3jnhgoqvhpbnhmg7ic4ume6c5lwbu4ymsryk7nzkmy6arsy",
+      "short_url": "-1-o-p-us-",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": {
+      "metadata": {
+        "body": {
+          "notes": "+ [ 1 ( O ) p | us ]  is a new work, an algorithmic re-imagining of my first musical composition, Sextet for Six Stringed Instruments, Opus 1. It is made as an offering and on the occasion of the 10 year anniversary of the original piece, which it samples. \n\nRecorded at:\n901 East 3rd Street\nLos Angeles, California, United States\n19 July 2011\n\nOriginal Performers:\nAlyssa Park - violin\nJoel Pargman - violin\nRob Brophy - viola\nJerome Gordon - viola\nTim Loo - cello\nPaula Hochhalter - cello\n\nOriginal Recording Engineer/Producer:\nAli Helnwein\n\nArtwork:\nLADY BAMBS\n\nSoftware:\nBitwig Studio 3.3.10\n\n© Tonestrukt Editions",
+          "title": "+ [ 1 ( O ) p | us ]",
+          "artist": "Gavin Gamboa",
+          "artwork": {
+            "nft": null,
+            "info": {
+              "uri": "https://ipfs.io/ipfs/bafybeifn4pr3jnhgoqvhpbnhmg7ic4ume6c5lwbu4ymsryk7nzkmy6arsy",
+              "mimeType": "image/jpeg"
+            },
+            "isNft": false
+          },
+          "project": null,
+          "version": "catalog-20210202",
+          "duration": 624.065,
+          "mimeType": "audio/wav",
+          "visualizer": null,
+          "trackNumber": null
+        },
+        "origin": {
+          "encoding": "rlp",
+          "algorithm": "secp256k1",
+          "publicKey": "0xc236541380fc0C2C05c2F2c6c52a21ED57c37952",
+          "signature": "0x6d2ad355f9f6a12f528961d4d6c5ac83bb1d04407062fb060e5ffdbe9611ebb502445f0c1a80b23511dac6d5dc80211eaf017d7adc8f362b86b16207724d7c951c"
+        }
+      },
+      "royalty_bps": 20000000000000000000,
+      "prev_owner_slice": 80000000000000000000
+    },
+    "cnft": null,
+    "token_id": "3763",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "created_at_block_number": 12695132,
+    "created_at_block_timestamp": "2021-06-24T05:56:04+00:00",
+    "created_at_tx_hash": "0xb7fc481179737f3cf6c441d56f700ff38949ed82f321e04be99710a39e182b72",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0x9634D2410a97ff36e6259E29608B5549E7a0539A",
+    "token_transfer_events": [
+      {
+        "id": "0012695132-000235-91d66",
+        "block_number": 12695132,
+        "block_timestamp": "2021-06-24T05:56:04+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0xb7fc481179737f3cf6c441d56f700ff38949ed82f321e04be99710a39e182b72"
+      },
+      {
+        "id": "0012697886-000309-7a828",
+        "block_number": 12697886,
+        "block_timestamp": "2021-06-24T16:25:50+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0x19cc7ab0c3532e16fe293540e789136a4808dd66fbb2378e4c8078a84a54c68b"
+      },
+      {
+        "id": "0012704421-000332-5707c",
+        "block_number": 12704421,
+        "block_timestamp": "2021-06-25T16:58:02+00:00",
+        "from": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "to": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+        "transaction_hash": "0xa30d622500bad1c8ec6a68b323fd0b777a406aa7d7dcb467c574f1f34e90a917"
+      },
+      {
+        "id": "0012705987-000171-f5894",
+        "block_number": 12705987,
+        "block_timestamp": "2021-06-25T22:49:36+00:00",
+        "from": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+        "to": "0x188Bd32F4c3b5FfAee22C2ec653f5d32Ed27d844",
+        "transaction_hash": "0xb679f106ad14c34950d41742f497c41198dc361fb508104ae233acce91364f08"
+      },
+      {
+        "id": "0015279422-000076-f8abe",
+        "block_number": 15279422,
+        "block_timestamp": "2022-08-05T01:44:31+00:00",
+        "from": "0x188Bd32F4c3b5FfAee22C2ec653f5d32Ed27d844",
+        "to": "0xd72Cb55FD6E7d94808B27B15f6132Cdfcf5A0461",
+        "transaction_hash": "0x5cb64b6d1e2ac089beac672cc61b1d0ebd0612b4358ef855514f56a1fce20def"
+      },
+      {
+        "id": "0017418570-000310-dd7f5",
+        "block_number": 17418570,
+        "block_timestamp": "2023-06-06T02:52:47+00:00",
+        "from": "0xd72Cb55FD6E7d94808B27B15f6132Cdfcf5A0461",
+        "to": "0x9634D2410a97ff36e6259E29608B5549E7a0539A",
+        "transaction_hash": "0xa0070ecd158fcbcab5d3a9de2e64563f78bed5bdebc3e27e2e0ec266ed04f322"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": null,
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": null,
+        "curator_fee_percentage": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "approved": null,
+        "status": null,
+        "seller": null,
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "status": null,
+        "seller": null,
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [
+      {
+        "id": "363",
+        "reserve_price": 60000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+        "current_bid_amount": 60000000000000000,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": "2021-06-25T16:55:22+00:00",
+        "approved": true,
+        "status": "FINALIZED",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [
+          {
+            "id": "0012697995-000161-61130",
+            "amount": 60000000000000000,
+            "bidder": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+            "created_at_timestamp": "2021-06-24T16:55:22+00:00"
+          }
+        ],
+        "winner": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+        "created_at_timestamp": "2021-06-24T16:25:50+00:00",
+        "created_at_block_number": 12697886,
+        "approved_at_timestamp": "2021-06-24T16:25:50+00:00",
+        "approved_at_block_number": 12697886,
+        "finalized_at_timestamp": "2021-06-25T16:58:02+00:00",
+        "finalized_at_block_number": 12704421,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "v2_auction_reserve_price_updated_events": []
+      }
+    ],
+    "v3auctions": [],
+    "v1offers": [
+      {
+        "amount": 60000000000000000,
+        "currency_address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "offerer": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "created_at_timestamp": "2021-06-25T16:58:02+00:00",
+        "created_at_block_number": 12704421,
+        "finalized_at_timestamp": "2021-06-25T16:58:02+00:00",
+        "finalized_at_block_number": 12704421,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "slice": 0,
+        "status": "FINALIZED"
+      },
+      {
+        "amount": 60000000000000000,
+        "currency_address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "offerer": "0x328809A567b87b6123462c3062e8438BBB75c1c5",
+        "created_at_timestamp": "2021-11-29T04:01:11+00:00",
+        "created_at_block_number": 13706426,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "slice": 5000000000000000000,
+        "status": "CREATED"
+      }
+    ]
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "QmbydYnbRX6z6bEAsraZhMqS8286fd1dhSyHa3t227yUgh",
+      "ipfs_hash_artwork": "bafybeihosoihee77pljauynlpe2jaiwlr2wrvnw4ekesup6s4jlyx6k2x4",
+      "short_url": "sinfonia",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": {
+      "metadata": {
+        "body": {
+          "notes": "The first movement of this Partita from Johann Sebastian Bach's Clavier-Übung I (\"keyboard exercise\" collection) is one of my favorite pieces of music. \r\n\r\nAdmiration for those who have mastered the art of piano playing is fused into my nervous system. This recording is my thanks for their enormous impact on my creative life.\r\n\r\n✴︎\r\n\r\nJohann Sebastian Bach (1685-1750)\r\nPartita for keyboard No. 2 in C minor, BWV 826\r\n1727\r\n\r\nGavin Gamboa, piano\r\nKawee’nga Studio\r\nLos Angeles, California, United States\r\n2021 November 28",
+          "title": "Sinfonia",
+          "artist": "Gavin Gamboa",
+          "artwork": {
+            "nft": null,
+            "info": {
+              "uri": "https://ipfs.io/ipfs/bafybeihosoihee77pljauynlpe2jaiwlr2wrvnw4ekesup6s4jlyx6k2x4",
+              "mimeType": "image/png"
+            },
+            "isNft": false
+          },
+          "project": {
+            "notes": "Johann Sebastian Bach (1685-1750)\r\nPartita 2 in C minor BWV 826\r\n1727\r\n\r\nGavin Gamboa, piano\r\nKawee’nga Studio\r\nLos Angeles, California, United States\r\n2021 November 28",
+            "title": "Bach ⎮ Partita II",
+            "artwork": {
+              "nft": null,
+              "info": {
+                "uri": "https://ipfs.io/ipfs/bafybeihosoihee77pljauynlpe2jaiwlr2wrvnw4ekesup6s4jlyx6k2x4",
+                "mimeType": "image/png"
+              },
+              "isNft": false
+            }
+          },
+          "version": "catalog-20210202",
+          "duration": 426.606,
+          "mimeType": "audio/wav",
+          "visualizer": null,
+          "trackNumber": 1
+        },
+        "origin": {
+          "encoding": "rlp",
+          "algorithm": "secp256k1",
+          "publicKey": "0xc236541380fc0C2C05c2F2c6c52a21ED57c37952",
+          "signature": "0x6e7d5abcd5682fcf39803c9b1521a5bdeb3a2beb11334e68b219635a0cc075c93cf7c137e5d66fc4df6dc309b55063616a84a6ae114f9a03628ad1e285b0ac231b"
+        }
+      },
+      "royalty_bps": 20000000000000000000,
+      "prev_owner_slice": 0
+    },
+    "cnft": null,
+    "token_id": "7984",
+    "token_contract": "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7",
+    "created_at_block_number": 14183069,
+    "created_at_block_timestamp": "2022-02-11T06:13:29+00:00",
+    "created_at_tx_hash": "0x8219cf4008dbd0018caaef888336183b395f2bfa08d362859604144fad99f2a8",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+    "token_transfer_events": [
+      {
+        "id": "0014183069-000188-39bed",
+        "block_number": 14183069,
+        "block_timestamp": "2022-02-11T06:13:29+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0x8219cf4008dbd0018caaef888336183b395f2bfa08d362859604144fad99f2a8"
+      },
+      {
+        "id": "0014183571-000393-a2519",
+        "block_number": 14183571,
+        "block_timestamp": "2022-02-11T08:06:15+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0x870121c41a5f1d68a7821c93c666440d82f3f6374528da511246edcb7f82d26f"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": 4014,
+        "reserve_price": 1727000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "status": null,
+        "seller": null,
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [
+      {
+        "id": "4014",
+        "reserve_price": 1727000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "approved": true,
+        "status": "ACTIVE",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [],
+        "winner": null,
+        "created_at_timestamp": "2022-02-11T08:06:15+00:00",
+        "created_at_block_number": 14183571,
+        "approved_at_timestamp": "2022-02-11T08:06:15+00:00",
+        "approved_at_block_number": 14183571,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "v2_auction_reserve_price_updated_events": []
+      }
+    ],
+    "v3auctions": [],
+    "v1offers": []
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "QmRJXo58FWz2Qegu3K7CUj5dgN4VnSKEMdqVGZVRZiEfuq",
+      "ipfs_hash_artwork": "QmRXrU4v1Nv1UJ1G4FHZagk54S9MSzTmzfYYvVtnozoReo",
+      "short_url": "answer-plateau",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": null,
+    "cnft": {
+      "metadata": {
+        "name": "Gavin Gamboa - Answer Plateau",
+        "image": "ipfs://QmRXrU4v1Nv1UJ1G4FHZagk54S9MSzTmzfYYvVtnozoReo",
+        "title": "Answer Plateau",
+        "artist": "Gavin Gamboa",
+        "version": "catalog-20220222",
+        "duration": 455.784,
+        "mimeType": "audio/flac",
+        "attributes": {
+          "artist": "Gavin Gamboa"
+        },
+        "description": "An encore for solo piano recorded live at Chapel Performance Space as part of Nonsequitur & Wayward Music Series.\r\n\r\nThe Good Shepherd Center\r\nSeattle, Washington, United States\r\n2022 August 18\r\n\r\nArtwork\r\nDALL-E 2 alteration of a photograph of the sculpture\r\n“Echo”\r\nJaume Plensa\r\n2011\r\n\r\nSpecial Thanks\r\nOmar Willey",
+        "external_url": "https://catalog.works/0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1/answer-plateau-1692415396",
+        "animation_url": "ipfs://QmRJXo58FWz2Qegu3K7CUj5dgN4VnSKEMdqVGZVRZiEfuq",
+        "losslessAudio": "ipfs://QmboxpwKz7h6wqtfePBwc2dKcX8kcvRPLSUvGygkXoTrCn"
+      },
+      "royalty_bps": 10000000000000000000
+    },
+    "token_id": "927",
+    "token_contract": "0x0bC2A24ce568DAd89691116d5B34DEB6C203F342",
+    "created_at_block_number": 17946193,
+    "created_at_block_timestamp": "2023-08-19T03:38:11+00:00",
+    "created_at_tx_hash": "0x61750e90d2db00274806784b89e7281cb74895e0742b350068f41cd49f7bccf0",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "token_transfer_events": [
+      {
+        "id": "0017946193-000272-d8e4a",
+        "block_number": 17946193,
+        "block_timestamp": "2023-08-19T03:38:11+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0x61750e90d2db00274806784b89e7281cb74895e0742b350068f41cd49f7bccf0"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": null,
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": null,
+        "curator_fee_percentage": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "approved": null,
+        "status": null,
+        "seller": null,
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": 380000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "status": "CREATED",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [],
+    "v3auctions": [
+      {
+        "reserve_price": 380000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "status": "CREATED",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v3_auction_bids": [],
+        "v3_auction_price_updated_events": [],
+        "winner": null,
+        "created_at_timestamp": "2023-08-19T04:10:47+00:00",
+        "created_at_block_number": 17946354,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "v1offers": []
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "QmZ9ztD9Mm83MhZBxLmfxWGcvLsc3jhLuJwXkxgXva4G9L",
+      "ipfs_hash_artwork": "QmSAzphAGiJt7jqKXYj4gh3bNJWhvE51TG6YsRwr9D4UR6",
+      "short_url": "polia-blastema-suite",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": null,
+    "cnft": {
+      "metadata": {
+        "name": "Gavin Gamboa - Polia & Blastema • Suite",
+        "image": "ipfs://QmSAzphAGiJt7jqKXYj4gh3bNJWhvE51TG6YsRwr9D4UR6",
+        "title": "Polia & Blastema • Suite",
+        "artist": "Gavin Gamboa",
+        "version": "catalog-20220222",
+        "duration": 595.696,
+        "mimeType": "audio/flac",
+        "attributes": {
+          "artist": "Gavin Gamboa"
+        },
+        "description": "Polia & Blastema, the new cinematic opera from filmmaker E. Elias Merhige (Begotten, Shadow of the Vampire) and visual artist David Wexler (LOOOP) starring Nina McNeely, Jasmine Albuquerque and featuring vocalists Micaela Tobin (White Boy Scream) and Sharon Chohi Kim (The Industry), is a gnostic creation myth told through a hallucinating tapestry which journeys into immensely desolate landscapes … what Eugene Thacker calls the \"world-without-us\" … while the supracosmic entities Polia and Blastema fold back onto themselves in ever-spiraling, fractally superimposing cataclysms of wormhole network (be)longing.\r\n\r\n\"Bold. There is no one left exploring new imagery and new sound so radically.\" \r\nWerner Herzog\r\n\r\n\"Mindblowingly beautiful. Pure seeing and wonder … otherworldiness magic.\" \r\nWillem Dafoe\r\n\r\n\"Like the long shriek of nature.\" \r\nTom Gunning\r\n\r\n\"My brain went in a thousand directions, blasted by its cosmic radiations.\"\r\nFrançois Girard\r\n\r\nThis 1/1 NFT special edition Suite from Polia & Blastema is a presentation of various sections of the chamber opera score that is unique from the film soundtrack, minted in anticipation of the World Premiere at Opera Philadelphia's FESTIVAL O22 on September 30th 2022.\r\n\r\nAuction Winner will receive: \r\n• a PDF of the full score & libretto\r\n• a special thank you credit in a to-be-announced published physical recording\r\n• equal distribution of their winning bid dispersed among the creative team & musicians who made this recording possible\r\n\r\nPresented by\r\nCentury Guild Creative\r\nStrangeloop Studios\r\nThe Teaching Machine\r\n\r\nPolia & Blastema\r\na cosmic opera\r\n\r\nFeaturing\r\nNina McNeely\r\nJasmine Albuquerque\r\n\r\nLibretto & Direction\r\nE. Elias Merhige\r\n\r\nCreative Direction & Visual Effects Supervisor\r\nDavid Wexler\r\n\r\nComposer & Sound Design\r\nGavin Gamboa\r\n\r\nSinging & Vocal Improvisations\r\nMicaela Tobin\r\nSharon Chohi Kim\r\n\r\nMusicians\r\nGerardo Hilera\r\nIna Veli\r\nErik Rynearson\r\nJohn Krovoza\r\nThomas Harte\r\n\r\nStudio Session Supervisor\r\nAli Helnwein\r\n\r\nVocal Recording Engineer\r\nHarlan Steinberger",
+        "external_url": "https://catalog.works/0xf2db5ff1a35524b05c2fdbe82fad1afe95fb05e1/polia-blastema-suite-1664261499",
+        "animation_url": "ipfs://QmZ9ztD9Mm83MhZBxLmfxWGcvLsc3jhLuJwXkxgXva4G9L",
+        "losslessAudio": "ipfs://QmXkXZsZe12bpwZhAZ3UgPayZywnHiNdqv1vPJ8pCBv9fk"
+      },
+      "royalty_bps": 10000000000000000000
+    },
+    "token_id": "402",
+    "token_contract": "0x0bC2A24ce568DAd89691116d5B34DEB6C203F342",
+    "created_at_block_number": 15626024,
+    "created_at_block_timestamp": "2022-09-27T16:56:47+00:00",
+    "created_at_tx_hash": "0xa97eddb9fe20df573440fa8cc927eb3172db2a365d031094b4fac4e72a7a8dc7",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0x9634D2410a97ff36e6259E29608B5549E7a0539A",
+    "token_transfer_events": [
+      {
+        "id": "0015626024-000266-40b0b",
+        "block_number": 15626024,
+        "block_timestamp": "2022-09-27T16:56:47+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0xa97eddb9fe20df573440fa8cc927eb3172db2a365d031094b4fac4e72a7a8dc7"
+      },
+      {
+        "id": "0015630024-000088-27ca9",
+        "block_number": 15630024,
+        "block_timestamp": "2022-09-28T06:24:23+00:00",
+        "from": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "to": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "transaction_hash": "0x22b6cecb30e9e197afc22dd64f315d3a6ddd365842397d1a161261340807bfd8"
+      },
+      {
+        "id": "0015640257-000248-f37bf",
+        "block_number": 15640257,
+        "block_timestamp": "2022-09-29T16:41:35+00:00",
+        "from": "0xE468cE99444174Bd3bBBEd09209577d25D1ad673",
+        "to": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+        "transaction_hash": "0x7cca06b740c948377d781355b0b64427404bf6096514d5e5f05ae36cb0345b64"
+      },
+      {
+        "id": "0015640342-000103-f66ee",
+        "block_number": 15640342,
+        "block_timestamp": "2022-09-29T16:58:47+00:00",
+        "from": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+        "to": "0xd72Cb55FD6E7d94808B27B15f6132Cdfcf5A0461",
+        "transaction_hash": "0x0b9394daa5cfdd0fb59439bab981322d6a4f3b10353f9e37e9b289ea7e07d1b1"
+      },
+      {
+        "id": "0017418578-000308-3d355",
+        "block_number": 17418578,
+        "block_timestamp": "2023-06-06T02:54:23+00:00",
+        "from": "0xd72Cb55FD6E7d94808B27B15f6132Cdfcf5A0461",
+        "to": "0x9634D2410a97ff36e6259E29608B5549E7a0539A",
+        "transaction_hash": "0x149b57e0e866fe049a00f2c717c3124edcb1a3822918cab988383b6904cdd0d2"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": null,
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": null,
+        "curator_fee_percentage": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "approved": null,
+        "status": null,
+        "seller": null,
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "status": null,
+        "seller": null,
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [
+      {
+        "id": "7159",
+        "reserve_price": 3141500000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+        "current_bid_amount": 3141500000000000000,
+        "curator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "curator_fee_percentage": 0,
+        "duration": 86400,
+        "expected_end_timestamp": "2022-09-29T16:39:35+00:00",
+        "approved": true,
+        "status": "FINALIZED",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v2_bids": [
+          {
+            "id": "0015633087-000150-b6895",
+            "amount": 3141500000000000000,
+            "bidder": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+            "created_at_timestamp": "2022-09-28T16:39:35+00:00"
+          }
+        ],
+        "winner": "0x1290F0b28f014363A81C3C7C2DFf5f7517499E44",
+        "created_at_timestamp": "2022-09-28T06:24:23+00:00",
+        "created_at_block_number": 15630024,
+        "approved_at_timestamp": "2022-09-28T06:24:23+00:00",
+        "approved_at_block_number": 15630024,
+        "finalized_at_timestamp": "2022-09-29T16:41:35+00:00",
+        "finalized_at_block_number": 15640257,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null,
+        "v2_auction_reserve_price_updated_events": []
+      }
+    ],
+    "v3auctions": [],
+    "v1offers": []
+  },
+  {
+    "track": {
+      "ipfs_hash_lossy_audio": "QmR25tFgirUK3wVFVZusS33PH5dTeHczup4AEJtDbTZnis",
+      "ipfs_hash_artwork": "QmV67FtfhSDKrhGNChnzumM1ko9tHHuNH2xf4beeELVsLt",
+      "short_url": "anemoiac-elegy",
+      "artist": {
+        "handle": "gavcloud"
+      }
+    },
+    "media": null,
+    "cnft": {
+      "metadata": {
+        "name": "Gavin Gamboa - Anemoiac Elegy",
+        "image": "ipfs://QmV67FtfhSDKrhGNChnzumM1ko9tHHuNH2xf4beeELVsLt",
+        "title": "Anemoiac Elegy",
+        "artist": "Gavin Gamboa",
+        "version": "catalog-20220222",
+        "duration": 241.711,
+        "mimeType": "audio/flac",
+        "attributes": {
+          "artist": "Gavin Gamboa"
+        },
+        "description": "A dirge in the classical style, originally composed for a film that was later abandoned.\r\n\r\nAnemoiac Elegy (2022)\r\nfor flute soloist and string orchestra\r\n\r\nFlute Recorded and Performed by Gina Luciani\r\nLos Angeles, California, United States\r\n\r\nArtwork:\r\nDespair\r\nMikuláš Galanda\r\n1938\r\n\r\nAuction Winner will receive: \r\n• a PDF of the full score\r\n• equal distribution of their winning bid dispersed among the musicians who made this recording possible",
+        "external_url": "https://catalog.works/0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1/anemoiac-elegy-1710273396",
+        "animation_url": "ipfs://QmR25tFgirUK3wVFVZusS33PH5dTeHczup4AEJtDbTZnis",
+        "losslessAudio": "ipfs://QmSpnAbZwLfV6kYJ1CBYAGXhZLwgWak5nTPKgagGdK8Uon"
+      },
+      "royalty_bps": 10000000000000000000
+    },
+    "token_id": "1149",
+    "token_contract": "0x0bC2A24ce568DAd89691116d5B34DEB6C203F342",
+    "created_at_block_number": 19442297,
+    "created_at_block_timestamp": "2024-03-15T19:02:11+00:00",
+    "created_at_tx_hash": "0x54692270c25a8d277fde7a0853ca8b39e32d67e95716c7378b49f1a70e874dcf",
+    "creator": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "owner": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+    "token_transfer_events": [
+      {
+        "id": "0019442297-000324-50c25",
+        "block_number": 19442297,
+        "block_timestamp": "2024-03-15T19:02:11+00:00",
+        "from": "0x0000000000000000000000000000000000000000",
+        "to": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "transaction_hash": "0x54692270c25a8d277fde7a0853ca8b39e32d67e95716c7378b49f1a70e874dcf"
+      }
+    ],
+    "currentV1Ask": [
+      {
+        "id": null,
+        "amount": null,
+        "currency_address": null,
+        "buyer": null,
+        "seller": null,
+        "status": null,
+        "created_at_timestamp": null,
+        "created_at_block_number": null,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "currentV3Ask": [
+      {
+        "amount": null,
+        "currency_address": null,
+        "seller": null,
+        "status": null
+      }
+    ],
+    "currentV2Auction": [
+      {
+        "auction_id": null,
+        "reserve_price": null,
+        "currency_address": null,
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "curator": null,
+        "curator_fee_percentage": null,
+        "duration": null,
+        "expected_end_timestamp": null,
+        "approved": null,
+        "status": null,
+        "seller": null,
+        "v2_bids": [],
+        "winner": null
+      }
+    ],
+    "currentV3Auction": [
+      {
+        "reserve_price": 600000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "status": "CREATED",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v3_auction_bids": [],
+        "winner": null
+      }
+    ],
+    "v1asks": [],
+    "v3asks": [],
+    "v2auctions": [],
+    "v3auctions": [
+      {
+        "reserve_price": 600000000000000000,
+        "currency_address": "0x0000000000000000000000000000000000000000",
+        "current_bidder": null,
+        "current_bid_amount": null,
+        "duration": 86400,
+        "expected_end_timestamp": null,
+        "status": "CREATED",
+        "seller": "0xf2dB5Ff1a35524b05c2fDBe82fAd1AFe95FB05e1",
+        "v3_auction_bids": [],
+        "v3_auction_price_updated_events": [],
+        "winner": null,
+        "created_at_timestamp": "2024-03-15T19:09:59+00:00",
+        "created_at_block_number": 19442336,
+        "finalized_at_timestamp": null,
+        "finalized_at_block_number": null,
+        "canceled_at_timestamp": null,
+        "canceled_at_block_number": null
+      }
+    ],
+    "v1offers": []
+  }
+]

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Catalog Widget</title>
+    <!-- load stylesheet-->
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="audio-player">
+            <div class="art-area" id="albumArt"></div>
+            <div class="non-art-area">
+                <div class="track-info">
+                    <div class="title-row">
+                        <div>
+                            <a id="catalogUrl" class="title-style" href="" target="_blank">
+                                <div class="track-title" id="audioTitle"></div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="artist-name" id="audioArtist"></div>
+                    <div class="logos">
+                        <div class="logos-row">
+                            <a id="tokenContractUrl" class="noStyling" href="" target="_blank">
+                                <span class="protocol-button">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="22pt" height="22pt" viewBox="0 0 110 110"><defs>
+                                        <radialGradient id="gzr" gradientTransform="translate(66.4578 24.3575) scale(75.2908)" gradientUnits="userSpaceOnUse" r="1" cx="0" cy="0%"><stop offset="15.62%" stop-color="hsl(248, 70%, 94%)" />
+                                            <stop offset="39.58%" stop-color="hsl(251, 71%, 85%)" />
+                                            <stop offset="72.92%" stop-color="hsl(269, 73%, 73%)" />
+                                            <stop offset="90.63%" stop-color="hsl(275, 80%, 69%)" />
+                                            <stop offset="100%" stop-color="hsl(278, 83%, 68%)" />
+                                        </radialGradient></defs>
+                                            <g transform="translate(5,5)"><path d="M100 50C100 22.3858 77.6142 0 50 0C22.3858 0 0 22.3858 0 50C0 77.6142 22.3858 100 50 100C77.6142 100 100 77.6142 100 50Z" fill="url(#gzr)" /><path stroke="rgba(0,0,0,0.075)" fill="transparent" stroke-width="1" d="M50,0.5c27.3,0,49.5,22.2,49.5,49.5S77.3,99.5,50,99.5S0.5,77.3,0.5,50S22.7,0.5,50,0.5z" /></g>
+                                    </svg>
+                                    <span class="logo-label" style="bottom:8px;"><em><strong>NFT</strong></em></span>
+                                </span>
+                            </a>
+                            <a id="catalogSiteUrl" class="noStyling" href="" target="_blank">
+                                <span class="platform-button">
+                                    <svg width="28" height="30" viewBox="0 0 24 24" fill="inherit"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                        d="M14.2897 20.1113L14.2897 7.5804L10.5225 7.5804H9.23514H6.83091H5.74969L1.51229 7.5804L1.51229 20.1113H14.2897Z" />
+                                        <path d="M15.302 17.8973L18.6363 8.78359L15.302 7.62814L15.302 17.8973Z" />
+                                        <path d="M22.0712 11.0053L19.5959 9.14345L16.3931 18.1554L22.0712 11.0053Z" />
+                                        <path d="M11.5242 6.31902L11.3108 6.58763H12.2993L11.5242 6.31902Z" />
+                                        <path d="M10.5146 5.96919L7.76854 5.01758L7.19412 6.58763L10.0235 6.58763L10.5146 5.96919Z" />
+                                        <path d="M13.1384 4.2863L12.1795 5.49383L16.9345 7.14159L13.1384 4.2863Z" />
+                                        <path d="M11.5242 6.31902L10.5146 5.96919L10.0235 6.58763L11.3108 6.58763L11.5242 6.31902Z" />
+                                    </svg>
+                                    <span class="logo-label" style="bottom:8px;">Catalog</span>
+                                </span>
+                            </a>
+                        </div>  
+                    </div>
+                    <div class="mimeTypeDiv">
+                        <div id="mimeType"></div>
+                        <div id="duration"></div>
+                        <div id="mintIcon">🔐 Mint</div>
+                        <div id="mintDate"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="controls">
+            <button class="play-button">►</button>
+            <!-- <input type="range" class="slider" min="0" max="100" value="0"> -->
+            <div class="slider" id="waveform"></div>
+        </div>
+        <div id="reservePriceDiv" class="buy-share">
+            <div style="display:grid;">
+                <div style="text-transform:uppercase; color:#686868; font-size:0.7em;">Reserve Price</div>
+                <div id="reservePrice"></div>
+            </div>
+            <div id="buyNowButton">
+                <a id="buyNowUrl" href="" target="_blank">
+                    <button>Buy Now</button>
+                </a>
+            </div>
+        </div>
+        <div id="ownerDiv" class="ownership">
+            <div style="display:grid;">
+                <div style="text-transform:uppercase; color:#686868; font-size:0.7em;">Sold For</div>
+                <div id="currentBid"></div>
+            </div>
+            <div style="display:grid;">
+                <div style="text-transform:uppercase; color:#686868; font-size:0.7em; text-align:right;">Owner</div>
+                <a id="ownerAddress" href="" target="_blank"></a>
+            </div>
+        </div>
+    </div>
+    <audio controls id="audioPlayer">
+        <source src="" type="audio/mpeg" />
+        Your browser does not support the audio element.
+    </audio>
+    <script src="https://unpkg.com/wavesurfer.js"></script>
+    <script src="widget.js" type="module"></script>
+</body>
+</html>
